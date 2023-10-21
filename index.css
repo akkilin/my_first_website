@@ -1,0 +1,45 @@
+h1{ 
+    font-family: Arial;
+    color:black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#p1{
+    font-family:'Times New Roman', Times, serif;
+    color:slategray;
+    font-family: cursive;
+    width: fit-content;
+    height: 4rem;
+    padding: 20px;
+    margin: 20px;
+    background-color:burlywood;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#otherh1{
+    color:coral;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: burlywood;
+}
+
+.blah{
+    color:cornflowerblue;
+    background-color:palegoldenrod;
+}
+#p2{
+    text-decoration: underline;
+    font-weight: 900; /* bolds*/
+    font-style: italic;
+}
+body{
+    background-color: bisque;
+}
